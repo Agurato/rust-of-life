@@ -5,3 +5,5 @@ authors = ["Agurato <mail.vmonot@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.6.5"
+clap = {version = "2.33", features = ["yaml"]}
